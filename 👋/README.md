@@ -1,5 +1,5 @@
-# KondalDurgam
-Hey! 👋 I'm KondalDurgam ,I am a User Interface Developer, having 3.10 years of experience in front-end development.
+**<h1>Hey! 👋 I'm KondalDurgam </h1>**
+I am a User Interface Developer, having 3.10 years of experience in front-end development.
 I am self-motivated, an energetic team player but can also work independently. I love to
 build applications and strive to explore and learn new technical skills.
 
