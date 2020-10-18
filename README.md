@@ -6,7 +6,7 @@ I am self-motivated, an energetic team player but can also work independently. I
 build applications and strive to explore and learn new technical skills.
 
 
-[![KondalDurgam's github stats ](https://github-readme-stats.vercel.app/api?username=kondalraodurgam)](https://github.com/kondalraodurgam?tab=stars)
+[![KondalDurgam's github stats ](https://github-readme-stats.vercel.app/api?username=kondalraodurgam&theme=merko&show_icons=true)](https://github.com/kondalraodurgam?tab=stars)
 
 • I develop web applications using AngularJS, ReactJS, VueJS, JavaScript, HTML5, CSS3.
 
